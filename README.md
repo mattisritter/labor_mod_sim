@@ -2,3 +2,4 @@
 ## Zwei-Gelenk Roboter
 TODO  
 - [ ] Alles
+- [ ] Abgabe
