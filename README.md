@@ -4,4 +4,5 @@ TODO
 - [x] Git-Repository erstellen
 - [x] _data erstellen
 - [ ] Alles
+- [ ] Gespräch mit Uwe
 - [ ] Abgabe
