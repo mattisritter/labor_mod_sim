@@ -3,8 +3,8 @@
 TODO  
 
 28.11
-- [ ] teamvertrag
-- [ ] projektvertrag
-- [ ] Pflichtenheft
-- [ ] phasenplan
-- [ ] projektstrukturplan
+- [x] teamvertrag
+- [x] projektvertrag
+- [x] Pflichtenheft
+- [x] phasenplan
+- [x] projektstrukturplan
