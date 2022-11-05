@@ -9,5 +9,3 @@ P_g = 9.81;% gravity [ m/s^2 ]
 x_0 = [pi, pi/2, 0, 0];
 
 %% Massmatrix M
-
-M = [(P_m1+P_m2)*P_l1^2, P_m2*P_l1*P_l2*cos];
