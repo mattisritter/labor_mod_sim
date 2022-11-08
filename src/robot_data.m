@@ -7,5 +7,3 @@ P_g = 9.81;% gravity [ m/s^2 ]
 
 %% Statevector x
 x_0 = [pi, pi/2, 0, 0];
-
-%% Massmatrix M
