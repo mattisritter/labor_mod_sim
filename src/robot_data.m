@@ -7,3 +7,6 @@ P_g = 9.81;% gravity [ m/s^2 ]
 
 %% Initialstate x_0
 x_0 = [pi; pi/2; 0; 0];
+
+%% Simulation parameter
+P_Ts = 1/60; % sample time [ s ]
