@@ -15,5 +15,5 @@ P_rt = 1e-6; % relative tolreance of solver
 P_Ts = 1/60; % sample time [ s ]
 
 %% Stationary state
-u_2s = P_m2*P_g*P_l2*sin(x_0(2)); % elbow motormoment [Nm]
+u_2s = P_m2*P_g*P_l2*sin(x_0(2));               % elbow motormoment [Nm]
 u_1s = (P_m1+P_m2)*P_g*P_l1*sin(x_0(1)) + u_2s; % shoulder motormoment [Nm]
